@@ -1,2 +1,2 @@
-# h0-tehtava
-first assignment
+# linux-course
+Homework reports
